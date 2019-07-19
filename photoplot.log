@@ -1,0 +1,700 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : AVRUSB500.brd                                 )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Fri Jul 19 12:19:50 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < DrillDraw >
+     TO FILE < C:/Users/user/Desktop/gerber/DrillDraw.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     DrillDraw created.
+
+
+================================================================
+     PROCESSING FILM < MeatlB >
+     TO FILE < C:/Users/user/Desktop/gerber/MeatlB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     MeatlB created.
+
+
+================================================================
+     PROCESSING FILM < MetalT >
+     TO FILE < C:/Users/user/Desktop/gerber/MetalT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  RECTANGLE  0.40000     x 1.89990      90.000 NO     DARK 
+  RECTANGLE  1.10010     x 1.89990      90.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690       0.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690      90.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690       0.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690      90.000 NO     DARK 
+
+     MetalT created.
+
+
+================================================================
+     PROCESSING FILM < SolderB >
+     TO FILE < C:/Users/user/Desktop/gerber/SolderB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     1.11800                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.57510                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  SQUARE     1.57510                     0.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+
+     SolderB created.
+
+
+================================================================
+     PROCESSING FILM < SolderT >
+     TO FILE < C:/Users/user/Desktop/gerber/SolderT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.11800                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.57510                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  SQUARE     1.57510                     0.000 NO     DARK 
+  RECTANGLE  0.40000     x 1.89990      90.000 NO     DARK 
+  RECTANGLE  1.10010     x 1.89990      90.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690       0.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690      90.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690       0.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690      90.000 NO     DARK 
+
+     SolderT created.
+
+
+================================================================
+     PROCESSING FILM < skikb >
+     TO FILE < C:/Users/user/Desktop/gerber/skikb.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.20300                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+
+     skikb created.
+
+
+================================================================
+     PROCESSING FILM < SilkT >
+     TO FILE < C:/Users/user/Desktop/gerber/SilkT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (11.4820 4.0160)
+           ... using undefined line width of 0.2000
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.2000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.20300                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+
+     SilkT created with warnings
+
+
+================================================================
+     PROCESSING FILM < Design >
+     TO FILE < C:/Users/user/Desktop/gerber/Design.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Film contains layer ROUTE KEEPOUT/ALL that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer ROUTE KEEPIN/ALL that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer PACKAGE KEEPIN/ALL that should not normally be used etch (conductor) layers.
+           
+    WARNING: more than one pin class in film record
+    WARNING: more than one via class in film record
+    WARNING: more than one etch class in film record
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD98_1 at (33.8040 27.2000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.8040 26.4000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.8040 25.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.8040 24.8000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.8040 24.0000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (35.2520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (35.2520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.8040 29.6010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.8040 28.8010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.8040 28.0000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD93_1 at (42.3000 24.0000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (42.3000 24.8000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (42.3000 25.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (42.3000 26.4000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (42.3000 27.2000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (36.0520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (36.8520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (37.6520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (38.4520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (39.2520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (40.0520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (40.8520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (42.3000 28.0000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (42.3000 28.8010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (42.3000 29.6010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (40.8520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (40.0520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (39.2520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (38.4520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (37.6520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (36.8520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (36.0520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD93_1 at (79.9000 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (80.7000 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (78.4520 27.1480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (78.4520 26.3480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (78.4520 25.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (78.4520 24.7480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (78.4520 23.9480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (78.4520 23.1480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (80.7000 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (79.9000 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (78.4520 28.7480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (78.4520 27.9480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (81.5000 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (82.3000 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (83.1000 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (83.9000 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (84.7010 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (85.5010 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (86.9480 23.1480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (86.9480 23.9480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (86.9480 24.7480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (86.9480 25.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (86.9480 26.3480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (86.9480 27.1480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (86.9480 27.9480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (86.9480 28.7480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (85.5010 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (84.7010 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (83.9000 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD98_1 at (83.1000 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (82.3000 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (81.5000 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack MICROUSB_GND at (101.6000 11.4000).
+    WARNING: Null REGULAR-PAD specified for padstack MICROUSB_GND at (101.6000 6.8000).
+    WARNING: Null REGULAR-PAD specified for padstack MICROUSB_GND1 at (101.6000 10.4000).
+    WARNING: Null REGULAR-PAD specified for padstack MICROUSB_GND1 at (101.6000 9.7500).
+    WARNING: Null REGULAR-PAD specified for padstack MICROUSB_GND1 at (101.6000 9.1000).
+    WARNING: Null REGULAR-PAD specified for padstack MICROUSB_GND1 at (101.6000 8.4500).
+    WARNING: Null REGULAR-PAD specified for padstack MICROUSB_GND1 at (101.6000 7.8000).
+    WARNING: rectangle or unfilled shape composed 0 width line found at (0.0000 0.0000)
+           ... ignored.
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.20300                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.38200                                  DARK 
+  CIRCLE     0.61000                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.57510                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  SQUARE     1.57510                     0.000 NO     DARK 
+  RECTANGLE  0.40000     x 1.89990      90.000 NO     DARK 
+  RECTANGLE  1.10010     x 1.89990      90.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690       0.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690      90.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690       0.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690      90.000 NO     DARK 
+
+     Design created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/user/Desktop/gerber/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.61000                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.57510                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  SQUARE     1.57510                     0.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/user/Desktop/gerber/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.38200                                  DARK 
+  CIRCLE     0.61000                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.57510                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  SQUARE     1.57510                     0.000 NO     DARK 
+  RECTANGLE  0.40000     x 1.89990      90.000 NO     DARK 
+  RECTANGLE  1.10010     x 1.89990      90.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690       0.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690      90.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690       0.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690      90.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < SILKTOP >
+     TO FILE < C:/Users/user/Desktop/gerber/SILKTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: more than one pin class in film record
+    WARNING: more than one via class in film record
+    WARNING: more than one etch class in film record
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD98_1 at (33.8040 27.2000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.8040 26.4000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.8040 25.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.8040 24.8000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.8040 24.0000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (35.2520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (35.2520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.8040 29.6010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.8040 28.8010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.8040 28.0000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD93_1 at (42.3000 24.0000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (42.3000 24.8000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (42.3000 25.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (42.3000 26.4000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (42.3000 27.2000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (36.0520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (36.8520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (37.6520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (38.4520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (39.2520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (40.0520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (40.8520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (42.3000 28.0000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (42.3000 28.8010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (42.3000 29.6010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (40.8520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (40.0520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (39.2520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (38.4520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (37.6520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (36.8520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (36.0520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD93_1 at (79.9000 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (80.7000 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (78.4520 27.1480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (78.4520 26.3480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (78.4520 25.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (78.4520 24.7480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (78.4520 23.9480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (78.4520 23.1480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (80.7000 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (79.9000 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (78.4520 28.7480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (78.4520 27.9480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (81.5000 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (82.3000 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (83.1000 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (83.9000 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (84.7010 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (85.5010 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (86.9480 23.1480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (86.9480 23.9480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (86.9480 24.7480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (86.9480 25.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (86.9480 26.3480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (86.9480 27.1480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (86.9480 27.9480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (86.9480 28.7480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (85.5010 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (84.7010 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (83.9000 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD98_1 at (83.1000 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (82.3000 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (81.5000 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack MICROUSB_GND at (101.6000 11.4000).
+    WARNING: Null REGULAR-PAD specified for padstack MICROUSB_GND at (101.6000 6.8000).
+    WARNING: Null REGULAR-PAD specified for padstack MICROUSB_GND1 at (101.6000 10.4000).
+    WARNING: Null REGULAR-PAD specified for padstack MICROUSB_GND1 at (101.6000 9.7500).
+    WARNING: Null REGULAR-PAD specified for padstack MICROUSB_GND1 at (101.6000 9.1000).
+    WARNING: Null REGULAR-PAD specified for padstack MICROUSB_GND1 at (101.6000 8.4500).
+    WARNING: Null REGULAR-PAD specified for padstack MICROUSB_GND1 at (101.6000 7.8000).
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.20300                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.38200                                  DARK 
+  CIRCLE     0.61000                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.57510                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  SQUARE     1.57510                     0.000 NO     DARK 
+  RECTANGLE  0.40000     x 1.89990      90.000 NO     DARK 
+  RECTANGLE  1.10010     x 1.89990      90.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690       0.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690      90.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690       0.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690      90.000 NO     DARK 
+
+     SILKTOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILKBOT >
+     TO FILE < C:/Users/user/Desktop/gerber/SILKBOT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: more than one pin class in film record
+    WARNING: more than one via class in film record
+    WARNING: more than one etch class in film record
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD98_1 at (33.8040 27.2000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.8040 26.4000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.8040 25.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.8040 24.8000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.8040 24.0000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (35.2520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (35.2520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.8040 29.6010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.8040 28.8010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (33.8040 28.0000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD93_1 at (42.3000 24.0000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (42.3000 24.8000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (42.3000 25.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (42.3000 26.4000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (42.3000 27.2000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (36.0520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (36.8520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (37.6520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (38.4520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (39.2520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (40.0520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (40.8520 22.5520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (42.3000 28.0000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (42.3000 28.8010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (42.3000 29.6010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (40.8520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (40.0520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (39.2520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (38.4520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (37.6520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (36.8520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (36.0520 31.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD93_1 at (79.9000 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (80.7000 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (78.4520 27.1480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (78.4520 26.3480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (78.4520 25.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (78.4520 24.7480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (78.4520 23.9480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (78.4520 23.1480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (80.7000 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (79.9000 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (78.4520 28.7480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (78.4520 27.9480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (81.5000 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (82.3000 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (83.1000 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (83.9000 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (84.7010 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (85.5010 21.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (86.9480 23.1480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (86.9480 23.9480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (86.9480 24.7480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (86.9480 25.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (86.9480 26.3480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (86.9480 27.1480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (86.9480 27.9480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (86.9480 28.7480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (85.5010 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (84.7010 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (83.9000 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD98_1 at (83.1000 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (82.3000 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (81.5000 30.1960).
+    WARNING: Null REGULAR-PAD specified for padstack MICROUSB_GND at (101.6000 11.4000).
+    WARNING: Null REGULAR-PAD specified for padstack MICROUSB_GND at (101.6000 6.8000).
+    WARNING: Null REGULAR-PAD specified for padstack MICROUSB_GND1 at (101.6000 10.4000).
+    WARNING: Null REGULAR-PAD specified for padstack MICROUSB_GND1 at (101.6000 9.7500).
+    WARNING: Null REGULAR-PAD specified for padstack MICROUSB_GND1 at (101.6000 9.1000).
+    WARNING: Null REGULAR-PAD specified for padstack MICROUSB_GND1 at (101.6000 8.4500).
+    WARNING: Null REGULAR-PAD specified for padstack MICROUSB_GND1 at (101.6000 7.8000).
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.38200                                  DARK 
+  CIRCLE     0.61000                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.57510                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  SQUARE     1.57510                     0.000 NO     DARK 
+  RECTANGLE  0.40000     x 1.89990      90.000 NO     DARK 
+  RECTANGLE  1.10010     x 1.89990      90.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690       0.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690      90.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690       0.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690      90.000 NO     DARK 
+
+     SILKBOT created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        DrillDraw created.
+        MeatlB created.
+        MetalT created.
+        SolderB created.
+        SolderT created.
+        skikb created.
+        SilkT created with warnings
+        Design created with warnings
+        BOTTOM created.
+        TOP created.
+        SILKTOP created with warnings
+        SILKBOT created with warnings
+
+ ARTWORK had warnings

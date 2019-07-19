@@ -1,0 +1,20 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DRILL LEGEND                                                     )
+(                                                                     )
+(    Drawing          : AVRUSB500.brd                                 )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Fri Jul 19 12:25:28 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Begin processing of drill legend template file 'C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/text/nclegend/default-mm.dlt' ...
+WARNING(SPMHSK-41): Title Text Block number is greater than Max Text Block(4) ... assuming 1.
+WARNING(SPMHSK-41): Column Title Text Block number is greater than Max Text Block(4) ... assuming 1.
+WARNING(SPMHSK-41): Data Text Block number is greater than Max Text Block(4) ... assuming 1.
+End of drill legend template file processing.
+
+Begin processing drill holes.
+No errors detected in processing holes.
+End processing drill holes.
